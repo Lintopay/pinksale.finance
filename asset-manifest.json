@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2e4d16e.chunk.css",
-    "main.js": "/static/js/main.c6509b7a.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.0ca63a1b.js",
-    "static/js/2.cacd0a6f.chunk.js": "/static/js/2.cacd0a6f.chunk.js",
-    "static/js/3.e55a1f18.chunk.js": "/static/js/3.e55a1f18.chunk.js",
-    "static/js/4.418a967b.chunk.js": "/static/js/4.418a967b.chunk.js",
-    "static/js/5.f6d1c381.chunk.js": "/static/js/5.f6d1c381.chunk.js",
+    "main.css": "/static/css/main.5b6bd371.chunk.css",
+    "main.js": "/static/js/main.15350d04.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.cb0340c7.js",
+    "static/js/2.46a8fdba.chunk.js": "/static/js/2.46a8fdba.chunk.js",
+    "static/js/3.67a8a497.chunk.js": "/static/js/3.67a8a497.chunk.js",
+    "static/js/4.e4f01810.chunk.js": "/static/js/4.e4f01810.chunk.js",
+    "static/js/5.f401b857.chunk.js": "/static/js/5.f401b857.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.cacd0a6f.chunk.js.LICENSE.txt": "/static/js/2.cacd0a6f.chunk.js.LICENSE.txt",
-    "static/js/3.e55a1f18.chunk.js.LICENSE.txt": "/static/js/3.e55a1f18.chunk.js.LICENSE.txt",
+    "static/js/2.46a8fdba.chunk.js.LICENSE.txt": "/static/js/2.46a8fdba.chunk.js.LICENSE.txt",
+    "static/js/3.67a8a497.chunk.js.LICENSE.txt": "/static/js/3.67a8a497.chunk.js.LICENSE.txt",
     "static/media/ic-bsc.18017344.svg": "/static/media/ic-bsc.18017344.svg",
     "static/media/ic-eth.9270fc02.svg": "/static/media/ic-eth.9270fc02.svg",
     "static/media/ic-matic.910e1faf.png": "/static/media/ic-matic.910e1faf.png",
@@ -19,9 +19,9 @@
     "static/media/walletconnect.dfa25e47.svg": "/static/media/walletconnect.dfa25e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ca63a1b.js",
-    "static/js/2.cacd0a6f.chunk.js",
-    "static/css/main.d2e4d16e.chunk.css",
-    "static/js/main.c6509b7a.chunk.js"
+    "static/js/runtime-main.cb0340c7.js",
+    "static/js/2.46a8fdba.chunk.js",
+    "static/css/main.5b6bd371.chunk.css",
+    "static/js/main.15350d04.chunk.js"
   ]
 }

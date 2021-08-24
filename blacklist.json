@@ -1,6 +1,14 @@
 [
   {
-    "address": "0x0401F664B274Ec526A4dfa8EBB8a81e297dd11A6",
+    "address": "0xd615B1287833c7d3474033A51E0A0a5930A96Cae",
+    "chainId": 97
+  },
+  {
+    "address": "0xc551bd917df57698D79268c53e73c890e6655c78",
+    "chainId": 97
+  },
+  {
+    "address": "0xb83992a95155698a625bE0F8c108E1a47994BEA5",
     "chainId": 97
   }
 ]
