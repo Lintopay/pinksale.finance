@@ -1,0 +1,1 @@
+(this["webpackJsonppink-sale"]=this["webpackJsonppink-sale"]||[]).push([[4],{1045:function(n,i){},1083:function(n,i){},1137:function(n,i){}}]);
