@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.78113994.chunk.css",
-    "main.js": "/static/js/main.e2847e06.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.6ff42ee3.js",
-    "static/js/2.1ffade4b.chunk.js": "/static/js/2.1ffade4b.chunk.js",
-    "static/js/3.0bdacf4f.chunk.js": "/static/js/3.0bdacf4f.chunk.js",
-    "static/js/4.b6a70b51.chunk.js": "/static/js/4.b6a70b51.chunk.js",
-    "static/js/5.07deea67.chunk.js": "/static/js/5.07deea67.chunk.js",
+    "main.css": "/static/css/main.f116b14c.chunk.css",
+    "main.js": "/static/js/main.9425ef23.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.17b58315.js",
+    "static/js/2.9fcc8fc9.chunk.js": "/static/js/2.9fcc8fc9.chunk.js",
+    "static/js/3.f33f2479.chunk.js": "/static/js/3.f33f2479.chunk.js",
+    "static/js/4.3c6837c4.chunk.js": "/static/js/4.3c6837c4.chunk.js",
+    "static/js/5.277cfe71.chunk.js": "/static/js/5.277cfe71.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.1ffade4b.chunk.js.LICENSE.txt": "/static/js/2.1ffade4b.chunk.js.LICENSE.txt",
-    "static/js/3.0bdacf4f.chunk.js.LICENSE.txt": "/static/js/3.0bdacf4f.chunk.js.LICENSE.txt",
+    "static/js/2.9fcc8fc9.chunk.js.LICENSE.txt": "/static/js/2.9fcc8fc9.chunk.js.LICENSE.txt",
+    "static/js/3.f33f2479.chunk.js.LICENSE.txt": "/static/js/3.f33f2479.chunk.js.LICENSE.txt",
     "static/media/ic-bsc.18017344.svg": "/static/media/ic-bsc.18017344.svg",
     "static/media/ic-eth.9270fc02.svg": "/static/media/ic-eth.9270fc02.svg",
     "static/media/ic-matic.910e1faf.png": "/static/media/ic-matic.910e1faf.png",
@@ -19,9 +19,9 @@
     "static/media/walletconnect.dfa25e47.svg": "/static/media/walletconnect.dfa25e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ff42ee3.js",
-    "static/js/2.1ffade4b.chunk.js",
-    "static/css/main.78113994.chunk.css",
-    "static/js/main.e2847e06.chunk.js"
+    "static/js/runtime-main.17b58315.js",
+    "static/js/2.9fcc8fc9.chunk.js",
+    "static/css/main.f116b14c.chunk.css",
+    "static/js/main.9425ef23.chunk.js"
   ]
 }
