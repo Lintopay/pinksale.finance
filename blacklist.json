@@ -218,5 +218,13 @@
   {
     "address": "0x5b9C972CeFAE7cCE616c8B0f55c8fa98f8B5951c",
     "chainId": 43114
+  },
+  {
+    "address": "0xa9CbEa98A45cddF17aedD34112A0ea191788aCdb",
+    "chainId": 56
+  },
+  {
+    "address": "0x86fD84C305A45EfD70717598d6eFb9e708eE915a",
+    "chainId": 56
   }
 ]
