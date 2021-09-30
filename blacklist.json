@@ -242,5 +242,17 @@
   {
     "address": "0x4125C610080E613666ac7F2B3273a56Aee1613f4",
     "chainId": 56
+  },
+  {
+    "address": "0x04A3B4E10b1d8Dc7DDF83FD199a104D9Ec78a832",
+    "chainId": 56
+  },
+  {
+    "address": "0x414125036D77fb10e2c1965C1Da8d2EA61d62e9F",
+    "chainId": 56
+  },
+  {
+    "address": "0x68625bB8694BDdeEf5628A7365477Da161B11cA0",
+    "chainId": 56
   }
 ]
