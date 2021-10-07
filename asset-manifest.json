@@ -24,7 +24,7 @@
     "leaderboard.js": "/static/js/leaderboard.08c54b81.chunk.js",
     "list-pool.js": "/static/js/list-pool.3a7111ef.chunk.js",
     "main.css": "/static/css/main.7d18300d.chunk.css",
-    "main.js": "/static/js/main.d05e37a2.chunk.js",
+    "main.js": "/static/js/main.a07832f6.chunk.js",
     "pinklock-liquidity.css": "/static/css/pinklock-liquidity.cb9c1fa0.chunk.css",
     "pinklock-liquidity.js": "/static/js/pinklock-liquidity.7dcf0f42.chunk.js",
     "pinklock-token.css": "/static/css/pinklock-token.40f54619.chunk.css",
@@ -65,6 +65,6 @@
     "static/js/runtime-main.3e20e70f.js",
     "static/js/22.9c06e695.chunk.js",
     "static/css/main.7d18300d.chunk.css",
-    "static/js/main.d05e37a2.chunk.js"
+    "static/js/main.a07832f6.chunk.js"
   ]
 }
