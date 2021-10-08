@@ -274,5 +274,33 @@
   {
     "address": "0x5A6953161186CA5bE7599d4fe221e555cc9e71fC",
     "chainId": 56
+  },
+  {
+    "address": "0x41B19f0AF66b0E010cb753De37BB42e5eE028cE1",
+    "chainId": 56
+  },
+  {
+    "address": "0x8A185b2a09309df364bD87338861ea6fef8c58f5",
+    "chainId": 56
+  },
+  {
+    "address": "0xF4Bb00132a08070cED1828B6b234B2F4FE1982A1",
+    "chainId": 56
+  },
+  {
+    "address": "0xCb67813B3562584A599326ca513CE52E64e3a25e",
+    "chainId": 56
+  },
+  {
+    "address": "0xd30Ca7103AdfACb8D7C86120FC692A88F2BE3396",
+    "chainId": 56
+  },
+  {
+    "address": "0x705064bEa688beCC0ccb6aF428e6db9a1693f738",
+    "chainId": 56
+  },
+  {
+    "address": "0xA002d9B4c75DEE086b70753594122300ee8c5618",
+    "chainId": 56
   }
 ]
