@@ -30,10 +30,10 @@
     "pinklock-token.css": "/static/css/pinklock-token.fe3f22e1.chunk.css",
     "pinklock-token.js": "/static/js/pinklock-token.33af37cb.chunk.js",
     "pool-detail.css": "/static/css/pool-detail.d58f00cd.chunk.css",
-    "pool-detail.js": "/static/js/pool-detail.b880e5be.chunk.js",
+    "pool-detail.js": "/static/js/pool-detail.f897701e.chunk.js",
     "pool-locker.css": "/static/css/pool-locker.4d4c2097.chunk.css",
     "pool-locker.js": "/static/js/pool-locker.174b927c.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.140a2e88.js",
+    "runtime-main.js": "/static/js/runtime-main.531424ff.js",
     "static/js/22.b608cce5.chunk.js": "/static/js/22.b608cce5.chunk.js",
     "static/js/23.a232937b.chunk.js": "/static/js/23.a232937b.chunk.js",
     "static/js/24.bb8e496d.chunk.js": "/static/js/24.bb8e496d.chunk.js",
@@ -64,7 +64,7 @@
     "static/media/walletconnect.dfa25e47.svg": "/static/media/walletconnect.dfa25e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.140a2e88.js",
+    "static/js/runtime-main.531424ff.js",
     "static/js/22.b608cce5.chunk.js",
     "static/css/main.7d18300d.chunk.css",
     "static/js/main.f279d5f3.chunk.js"
